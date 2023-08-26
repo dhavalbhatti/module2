@@ -19,10 +19,6 @@ int main (){
     {
     printf("Grade: Distinction");
     }
-    else if ((percentage > 75))
-    {
-    printf("Grade: Distinction");
-    }
     else if ((percentage <= 75 && percentage > 60))
     {
     printf("Grade: First Class");

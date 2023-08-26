@@ -5,7 +5,7 @@ int main (){
     printf("Please enter a number: ");
     scanf("%d",&num1);
 
-    if (num1%1 == 0 && num1%num1 == 0)
+    if (num1%2 != 0 && num1%3 != 0)
     {
     printf("The Entered Number %d is a Prime Number", num1);
     }

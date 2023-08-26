@@ -41,3 +41,14 @@ int main (){
     
     return 0;
 }
+
+/*
+switch(expression){
+    case 1:
+    statement;
+    break;
+    default:
+    statement;
+    break;
+}
+*/

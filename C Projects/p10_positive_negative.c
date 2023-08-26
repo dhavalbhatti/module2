@@ -9,7 +9,7 @@ int main (){
     {
     printf("The Entered Number is a Positive Number");
     }
-     if (num1 == 0)
+    else if (num1 == 0)
     {
     printf("You entered 0");
     }
